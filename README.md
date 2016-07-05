@@ -1,4 +1,7 @@
 # -*- coding:utf-8 -*-
-create on  5 July 2016 by pillar
+author:Pillar Lai
+since: Feb 2016
 email: lhlai@foxmail.com
-This repository contains some projects about Crawler ,Extractor or KnowledgeGraph
+
+
+some Search Engineering Project mainly contains Crawler, Extractor and KnowledgeGraph
