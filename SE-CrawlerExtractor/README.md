@@ -3,15 +3,16 @@
 
 ##功能简介
 ###1.定制爬虫
-本系统为定制爬虫,目标网站是中国农业信息网(http://www.agri.cn/)
+本爬虫为多线程垂直爬虫,目标网站是中国农业信息网(http://www.agri.cn/)，当然可通过urlseeds文件夹配置种子文件，并在源码几处稍作修改可定向抓取其他网站。
 
-###2.系统运行
-可直接导入eclipse等IDE工具
+##2.信息抽取
+采用两种方式：1)先利用Jtidy将html文件转xml，再利用Dom4j从xml中抽取结构化文本；
+              2)利用Jsoup直接html/htm提取文本内容
 
-###3.功能演示
-有三大主类：MyCrawler.java,MyExtractor.java,TextPreprocess.java,运行即可
+##功能演示
+有三大主类：MyCrawler.java,MyExtractor.java,TextPreprocess.java,分别负责抓取网页，抽取文本内容，文本预处理。
 	
-###4.附件说明
+##附件说明
 	html———— 保存爬虫爬取页面
 	xml————  html转成xml的文件
 	files———— xml抽取结构化文本得到的txt文件
