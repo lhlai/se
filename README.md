@@ -1,4 +1,4 @@
-author:Pillar Lai
-since: Feb 2016
+
+Search Engineering
 
 some Search Engineering Project mainly contains Crawler, Extractor and KnowledgeGraph
