@@ -1,0 +1,28 @@
+# sample config file for Java HTML tidy
+
+#clean:yes
+
+add-xml-decl:yes
+doctype:omit
+enclose-block-text:no       
+enclose-text:no
+force-output:yes
+indent: true
+indent-attributes: no   //属性标签是否缩进
+indent-cdata:no
+indent-spaces: 2
+markup:yes 
+numeric-entities: no    //是否将字符输出为HTML字符实体（如&lt;、&gt;） 
+output-xhtml:yes
+quote-marks: yes        //是否将“输出为&quot
+quote-nbsp: yes         //是否将空格输出为&nbsp
+quote-ampersand: yes
+quiet: yes              //抑制不必要的输出
+break-before-br: no
+#output-encoding:utf-8
+uppercase-tags: no
+uppercase-attributes: no
+show-body-only: no
+show-warnings: no
+wrap:0
+wrap-script-literals:yes

@@ -1,0 +1,6 @@
+# -*- utf-8 -*-
+##agri-bananakj url seeds
+#文化 > 饮食文化
+http://www.banana.agri.cn/wenhua/yswh/
+pageNum=4
+

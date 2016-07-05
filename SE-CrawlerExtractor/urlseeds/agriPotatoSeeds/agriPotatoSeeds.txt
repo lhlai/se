@@ -1,0 +1,50 @@
+# -*- utf-8 -*-
+##agri-potato url seeds 中国马铃薯网
+#首页 > 市场 > 市场动态
+http://www.potato.agri.cn/shichang/scdt/
+pageNum=2
+#市场 > 分析预测
+http://www.potato.agri.cn/shichang/fxyc/
+pageNum=0
+#市场 > 名优产品
+http://www.potato.agri.cn/shichang/mycp/
+pageNum=0
+#市场 > 名优企业
+http://www.potato.agri.cn/shichang/myqy/
+pageNum=0
+#首页 > 科技 > 种植技术
+http://www.potato.agri.cn/keji_/zzjs/
+pageNum=7
+# 科技 > 储运保鲜技术
+http://www.potato.agri.cn/keji_/cybxjs/
+pageNum=2
+#科技 > 病虫防治
+http://www.potato.agri.cn/keji_/bcfz/
+pageNum=3
+#科技> 加工技术
+http://www.potato.agri.cn/keji_/jgjs/
+pageNum=1
+#科技>品种介绍
+http://www.potato.agri.cn/keji_/pzjs/
+pageNum=7
+#科技>马铃薯百科
+http://www.potato.agri.cn/keji_/mlsbk/
+pageNum=1
+#科技>科技视频
+http://www.potato.agri.cn/keji_/kjsp/
+pageNum=0
+#新闻>行业新闻
+http://www.potato.agri.cn/xinwen/hyxw/
+pageNum=2
+#新闻>图片新闻
+http://www.potato.agri.cn/xinwen/tpxw/
+pageNum=0
+#新闻>法规标准
+http://www.potato.agri.cn/xinwen/fgbz/
+pageNum=0
+#服务 > 合作社风采
+http://www.potato.agri.cn/fuwu/hzsfc/
+pageNum=1
+#文化 > 饮食文化
+http://www.potato.agri.cn/wenhua/yswh/
+pageNum=1

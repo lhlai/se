@@ -1,0 +1,20 @@
+# -*- utf-8 -*-
+##agri-bananakj url seeds
+#科技 > 种植技术
+http://www.banana.agri.cn/keji/zzjs/
+pageNum=5
+#科技 > 病虫害防治
+http://www.banana.agri.cn/keji/bchfz/
+pageNum=2
+#科技 > 储运保鲜
+http://www.banana.agri.cn/keji/cybx/
+pageNum=2
+#科技 > 品种介绍
+http://www.banana.agri.cn/keji/pzjs/
+pageNum=2
+#科技 > 香蕉百科
+http://www.banana.agri.cn/keji/ddbk/
+pageNum=4
+#科技>香蕉视频
+http://www.banana.agri.cn/keji/kjsp/
+pageNum=2

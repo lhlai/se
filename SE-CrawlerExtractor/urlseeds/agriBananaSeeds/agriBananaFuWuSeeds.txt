@@ -1,0 +1,8 @@
+# -*- utf-8 -*-
+##agri-bananaFuWu url seeds
+#服务 > 合作社风采
+http://www.banana.agri.cn/fuwu/hzsfc/
+pageNum=0
+#服务 > 友情链接
+http://www.banana.agri.cn/fuwu/yqlj/
+pageNum=0

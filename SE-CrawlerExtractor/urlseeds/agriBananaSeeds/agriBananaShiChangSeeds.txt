@@ -1,0 +1,20 @@
+# -*- utf-8 -*-
+##agri-bananaShiChang url seeds
+#市场 > 市场动态
+http://www.banana.agri.cn/shichang/scdt/
+pageNum=4
+#市场 > 分析预测
+http://www.banana.agri.cn/shichang/fxyc/
+pageNum=4
+#市场>价格行情 > 销地价格
+http://www.banana.agri.cn/shichang/jghq/xdjg/
+pageNum=1
+#市场>价格行情 > 产地价格
+http://www.banana.agri.cn/shichang/jghq/cdjg/
+pageNum=12
+#市场 > 名优产品
+http://www.banana.agri.cn/shichang/mycp/
+pageNum=2
+#市场 > 名优企业
+http://www.banana.agri.cn/shichang/myqy/
+pageNum=0

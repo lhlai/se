@@ -1,0 +1,68 @@
+# -*- utf-8 -*-
+##agri-rice url seeds 中国水稻网
+#新闻 > 行业新闻
+http://www.rice.agri.cn/xinwen/hyxw/
+pageNum=29
+#新闻 > 图片新闻
+http://www.rice.agri.cn/xinwen/tpxw/
+pageNum=2
+#新闻 > 法规标准 > 行业法规
+http://www.rice.agri.cn/xinwen/fgbz/hyfg/
+pageNum=0
+#新闻 >法规标准 > 标准规范
+http://www.rice.agri.cn/xinwen/fgbz/bzgf/
+pageNum=0
+#新闻 > 行业展会
+http://www.rice.agri.cn/xinwen/hyzh/
+pageNum=2
+#市场 > 市场动态
+http://www.rice.agri.cn/shichang/scdt/
+pageNum=10
+#市场 > 价格行情
+http://www.rice.agri.cn/shichang/jghq/
+pageNum=17
+#市场 > 分析预测
+http://www.rice.agri.cn/shichang/fxyc/
+pageNum=5
+#市场 > 市场报价 > 产地收购价格
+http://www.rice.agri.cn/shichang/scbj/sdsgjg/
+pageNum=6
+#市场 > 市场报价 > 期货价格
+http://www.rice.agri.cn/shichang/scbj/qhjg/
+pageNum=1
+#市场 > 名优产品
+http://www.rice.agri.cn/shichang/mycp/
+pageNum=1
+#市场 > 名优企业
+http://www.rice.agri.cn/shichang/myqy/
+pageNum=0
+#科技>实用技术 > 栽培技术
+http://www.rice.agri.cn/keji/syjs/zpjs/
+pageNum=0
+#科技>实用技术 >植保技术
+http://www.rice.agri.cn/keji/syjs/zbjs/
+pageNum=0
+#科技>实用技术 >土肥技术
+http://www.rice.agri.cn/keji/syjs/tfjs/
+pageNum=0
+#科技>加工技术
+http://www.rice.agri.cn/keji/jgjs/
+pageNum=1
+#科技>品种介绍
+http://www.rice.agri.cn/keji/pzjs/
+pageNum=3
+#科技>水稻百科
+http://www.rice.agri.cn/keji/sdbk/
+pageNum=1
+#科技>科技视频
+http://www.rice.agri.cn/keji/kjsp/
+pageNum=1
+#文化 > 饮食文化
+http://www.rice.agri.cn/wenhua/yswh/
+pageNum=1
+#服务 > 数据服务
+http://www.rice.agri.cn/fuwu/sjfw/
+pageNum=2
+#服务 > 合作社风采
+http://www.rice.agri.cn/fuwu/hzsfc/
+pageNum=0

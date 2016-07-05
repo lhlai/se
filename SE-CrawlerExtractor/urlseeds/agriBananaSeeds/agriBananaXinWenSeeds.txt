@@ -1,0 +1,14 @@
+# -*- utf-8 -*-
+##agri-bananaXinWen url seeds
+#新闻 > 行业新闻
+http://www.banana.agri.cn/xinwen/hyxw/
+pageNum=6
+#新闻 > 图片新闻
+http://www.banana.agri.cn/xinwen/tpxw/
+pageNum=1
+#新闻 > 法规标准 > 行业法规
+http://www.banana.agri.cn/xinwen/fgbz/hyfg/
+pageNum=1
+#新闻 > 行业展会
+http://www.banana.agri.cn/xinwen/hyzh/
+pageNum=1

@@ -1,0 +1,4 @@
+# sample config file for HTML tidy
+
+force-output:yes
+

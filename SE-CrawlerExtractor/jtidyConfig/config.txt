@@ -1,0 +1,14 @@
+# sample config file for Java HTML tidy
+
+add-xml-decl=yes
+break-before-br=no
+force-output=yes
+#smart-indent=no
+indent=auto
+indent-spaces=2
+input-xml=yes
+markup=yes
+numeric-entities=yes
+output-xml=yes
+wrap=0
+wrap-script-literals=yes

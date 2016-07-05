@@ -1,0 +1,224 @@
+# -*- utf-8 -*-
+##agri-tea url seeds 中国茶网
+#新闻频道 〉 经济新闻
+http://www.tea.agri.cn/newscw/jjxwcw/
+pageNum=30
+#新闻频道 〉 文化新闻
+http://www.tea.agri.cn/newscw/whxwcw/
+pageNum=15
+#新闻频道 〉 品牌新闻
+http://www.tea.agri.cn/newscw/ppnewscw/
+pageNum=7
+#新闻频道 〉 国际新闻
+http://www.tea.agri.cn/newscw/gjnewscw/
+pageNum=7
+#新闻频道 〉茶业政策
+http://www.tea.agri.cn/newscw/cyzccw/
+pageNum=3
+#新闻频道 〉茶业展会
+http://www.tea.agri.cn/newscw/cyzhcw/
+pageNum=7
+#技术频道 〉 种茶技术
+http://www.tea.agri.cn/jspd/zcjs/
+pageNum=2
+#技术频道 〉 制茶技术
+http://www.tea.agri.cn/jspd/zhicjs/
+pageNum=2
+#技术频道 〉 茶机道具
+http://www.tea.agri.cn/jspd/cjcj/
+pageNum=0
+#技术频道 〉 科研成果
+http://www.tea.agri.cn/jspd/kycg/
+pageNum=1
+#技术频道 〉 科普读物
+http://www.tea.agri.cn/jspd/kpdw/
+pageNum=1
+#经济频道 〉 产业研究
+http://www.tea.agri.cn/shichangcw/cyyj/
+pageNum=6
+#经济频道 〉 行业走势
+http://www.tea.agri.cn/shichangcw/hyzscw/
+pageNum=3
+#经济频道 〉 专业认证
+http://www.tea.agri.cn/shichangcw/zyrzcw/
+pageNum=2
+#经济频道 〉 电子商务
+http://www.tea.agri.cn/shichangcw/dzswcw/
+pageNum=2
+#经济频道 〉 茶城茶市
+http://www.tea.agri.cn/shichangcw/scdtcw/
+pageNum=3
+#经济频道 〉 茶业协会
+http://www.tea.agri.cn/shichangcw/cyxh/
+pageNum=0
+#文化频道 〉 茶业研究
+http://www.tea.agri.cn/wenhuacw/fxyccw/
+pageNum=2
+#文化频道 〉 茶史茶人
+http://www.tea.agri.cn/wenhuacw/cscrcw/
+pageNum=2
+#文化频道 〉 茶诗茶画
+http://www.tea.agri.cn/wenhuacw/cysh/
+pageNum=1
+#文化频道 〉 茶具茶器
+http://www.tea.agri.cn/wenhuacw/cjcq/
+pageNum=1
+#文化频道 〉 茶疗养生
+http://www.tea.agri.cn/wenhuacw/ylyscw/
+pageNum=7
+#文化频道 〉 其他文艺
+http://www.tea.agri.cn/wenhuacw/qtwhcw/
+pageNum=6
+#文化频道 〉 各大茶馆 〉 红茶馆
+http://www.tea.agri.cn/gdcg/hongcg/
+pageNum=0
+# 文化频道 〉 各大茶馆 〉 红茶馆 〉 红茶资讯
+http://www.tea.agri.cn/gdcg/hongcg/zixun.htm
+pageNum=0
+# 文化频道 〉 各大茶馆 〉 红茶馆 〉 红茶资讯
+http://www.tea.agri.cn/gdcg/hongcg/zixun_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 红茶馆 〉 红茶知识
+http://www.tea.agri.cn/gdcg/hongcg/zhishi.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 红茶馆 〉 红茶知识
+http://www.tea.agri.cn/gdcg/hongcg/zhishi_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 红茶馆 〉 红茶文化
+http://www.tea.agri.cn/gdcg/hongcg/wenhua.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 红茶馆 〉 红茶文化
+http://www.tea.agri.cn/gdcg/hongcg/wenhua_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 绿茶馆
+http://www.tea.agri.cn/gdcg/lvcg/
+pageNum=0
+#文化频道 〉 各大茶馆 〉 绿茶馆 〉 绿茶资讯
+http://www.tea.agri.cn/gdcg/lvcg/zixun.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 绿茶馆 〉 绿茶资讯
+http://www.tea.agri.cn/gdcg/lvcg/zixun_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 绿茶馆 〉 绿茶知识
+http://www.tea.agri.cn/gdcg/lvcg/zhishi.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 绿茶馆 〉 绿茶知识
+http://www.tea.agri.cn/gdcg/lvcg/zhishi_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 绿茶馆 〉 绿茶文化
+http://www.tea.agri.cn/gdcg/lvcg/wenhua.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 绿茶馆 〉 绿茶文化
+http://www.tea.agri.cn/gdcg/lvcg/wenhua_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆
+http://www.tea.agri.cn/gdcg/qingcg/
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 青茶资讯
+http://www.tea.agri.cn/gdcg/qingcg/zixun.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 青茶资讯
+http://www.tea.agri.cn/gdcg/qingcg/zixun_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 青茶知识
+http://www.tea.agri.cn/gdcg/qingcg/zhishi.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 青茶知识
+http://www.tea.agri.cn/gdcg/qingcg/zhishi_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 青茶文化
+http://www.tea.agri.cn/gdcg/qingcg/wenhua.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 青茶文化
+http://www.tea.agri.cn/gdcg/qingcg/wenhua_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 白茶馆
+http://www.tea.agri.cn/gdcg/baicg/
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 白茶资讯
+http://www.tea.agri.cn/gdcg/baicg/zixun.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 白茶资讯
+http://www.tea.agri.cn/gdcg/baicg/zixun_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 白茶知识
+http://www.tea.agri.cn/gdcg/baicg/zhishi.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 白茶知识
+http://www.tea.agri.cn/gdcg/baicg/zhishi_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 白茶文化
+http://www.tea.agri.cn/gdcg/baicg/wenhua.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 白茶文化
+http://www.tea.agri.cn/gdcg/baicg/wenhua—_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 黑茶馆
+http://www.tea.agri.cn/gdcg/heicg/
+pageNum=0
+#文化频道 〉 各大茶馆 〉 黑茶馆 〉 黑茶资讯
+http://www.tea.agri.cn/gdcg/heicg/zixun.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 黑茶馆 〉 黑茶资讯
+http://www.tea.agri.cn/gdcg/heicg/zixun_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 黑茶知识
+http://www.tea.agri.cn/gdcg/heicg/zhishi.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 黑茶知识
+http://www.tea.agri.cn/gdcg/heicg/zhishi_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 黑茶文化
+http://www.tea.agri.cn/gdcg/heicg/wenhua.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 黑茶文化
+http://www.tea.agri.cn/gdcg/heicg/wenhua_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 黄茶馆
+http://www.tea.agri.cn/gdcg/huangcg/
+pageNum=0
+#文化频道 〉 各大茶馆 〉 黑茶馆 〉 黄茶资讯
+http://www.tea.agri.cn/gdcg/huangcg/zixun.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 黑茶馆 〉 黄茶资讯
+http://www.tea.agri.cn/gdcg/huangcg/zixun_1.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 黄茶知识
+http://www.tea.agri.cn/gdcg/huangcg/zhishi.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 黄茶文化
+http://www.tea.agri.cn/gdcg/huangcg/wenhua.htm
+pageNum=0
+#文化频道 〉 各大茶馆 〉 青茶馆 〉 黄茶文化
+http://www.tea.agri.cn/gdcg/huangcg/wenhua_1.htm
+pageNum=0
+#首页 〉 品牌频道
+http://www.tea.agri.cn/kejicw/
+pageNum=0
+#首页 〉 品牌频道 〉 茶业名城
+http://www.tea.agri.cn/kejicw/cymc/
+pageNum=1
+# 国际频道 〉 海外社团
+http://www.tea.agri.cn/fuwu/cdcw/
+pageNum=1
+#国际频道 〉 茶国地理
+http://www.tea.agri.cn/fuwu/gncw/
+pageNum=1
+#国际频道 〉 国际茶人
+http://www.tea.agri.cn/fuwu/gjcw/
+pageNum=1
+#国际频道 〉 国际茶道
+http://www.tea.agri.cn/fuwu/gjcw_1/
+pageNum=1
+#国际频道 〉 国际展会
+http://www.tea.agri.cn/fuwu/gjzhcw/
+pageNum=0
+#国际频道 〉海外社团
+http://www.tea.agri.cn/fuwu/hwstcw/
+pageNum=0
+#国际频道 〉国际项目
+http://www.tea.agri.cn/fuwu/gjxmcw/
+pageNum=0
+#首页 〉 视频频道
+http://www.tea.agri.cn/sppd/spzb/
+pageNum=0
