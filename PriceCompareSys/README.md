@@ -2,10 +2,9 @@
 /**
 *@author  pillar
 *@since   2015 12 
-*ÌìÃ¨¾©¶«ÉÌÆ·±È¼ÛÏµÍ³
+*å¤©çŒ«äº¬ä¸œå•†å“æ¯”ä»·ç³»ç»Ÿ
 */
  
-attention:1£©ÔËĞĞcn.org.bijia.mainÏÂµÄPriceCompare.javaÀà¼´¿É
-          2£©Ä¿Ç°Ö»Õ¹Ê¾Á½¸öÉÌ³ÇÉÌÆ·ËÑË÷½á¹ûÊ×Ò³µÄÊı¾İ
-     
-please contact lhlai@foxmail.com if you need any help
+attention:1ï¼‰è¿è¡Œcn.org.bijia.mainä¸‹çš„PriceCompare.javaç±»å³å¯
+          2ï¼‰ç›®å‰åªå±•ç¤ºä¸¤ä¸ªå•†åŸå•†å“æœç´¢ç»“æœé¦–é¡µçš„æ•°æ®
+
