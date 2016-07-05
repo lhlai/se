@@ -1,4 +1,3 @@
-# -*- coding:utf-8 -*-
 author:Pillar Lai
 since: Feb 2016
 
