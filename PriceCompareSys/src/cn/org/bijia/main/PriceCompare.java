@@ -11,7 +11,7 @@ public class PriceCompare {
 
 	public static void main(String[] args) throws Exception {
 		double begin = System.currentTimeMillis();
-		String keyword = "文胸 聚拢";           //定义搜索的商品名称
+		String keyword = "内存条 金士顿";           //定义搜索的商品名称
 		String tsortStyle = Product.tsales;      //定义天猫排序方式
 		String jsortStyle = Product.jsales;      //定义京东排序方式
 		
